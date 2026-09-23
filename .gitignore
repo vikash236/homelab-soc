@@ -1,0 +1,10 @@
+# Local environment secrets and log files
+.env
+*.log
+data/
+elasticsearch/data/
+logstash/data/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
